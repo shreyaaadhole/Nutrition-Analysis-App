@@ -1,1 +1,1 @@
-# OmegaHealthapp
+# Healthapp_GoogleGeminiLLM
