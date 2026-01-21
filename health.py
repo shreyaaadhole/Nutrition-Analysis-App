@@ -1,6 +1,4 @@
 ### Health Management APP
-st.write("App started")
-
 from dotenv import load_dotenv
 
 load_dotenv() ## load all the environment variables
@@ -70,6 +68,7 @@ if submit:
     response=get_gemini_repsonse(input_prompt,image_data,input)
     st.subheader("The Response is")
     st.write(response)
+
 
 
 
